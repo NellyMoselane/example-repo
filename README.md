@@ -1,1 +1,1 @@
-# example-repo
+# stickynotes
